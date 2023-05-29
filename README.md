@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/9vm81fsg85c35aqn?svg=true)](https://ci.appveyor.com/project/volik97/react-components-class)
