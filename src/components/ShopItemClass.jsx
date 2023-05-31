@@ -2,10 +2,6 @@ import PropTypes from 'prop-types'
 import { Component } from 'react'
 
 export default class ShopItemClass extends Component {
-    constructor(props){
-        super(props)
-    }
-
     render() {
         const { item } = this.props
         const price = Math.round((item.price*100)/100).toFixed(2);
